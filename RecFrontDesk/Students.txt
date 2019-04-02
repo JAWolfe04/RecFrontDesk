@@ -1,0 +1,61 @@
+82600  LESLIE PEZ
+0 
+60772  TAMI OWENS
+0 
+51062  MLINDA GOON
+0 
+58517  JIMMY BLAKE
+0 
+19232  JESSIE SIMON
+2 Locker
+ Towel
+  
+80426  COTNY PETSN
+0 
+33354  CLARK ROSS
+7 Badminton
+ Towel
+ Basketball
+ Cooler
+ Dodgeball
+ Frisbee
+ Goggles 
+ 
+98428  TERRI MACK
+0 
+24074  BENJAMIN POPE
+0 
+60855  MARLON BLACK
+0 
+53124  BRAD ESTRADA
+0 
+47322  ROSE TUCKER
+6 Locker
+ Towel
+ Frisbee
+ Kickball
+ Racquetball
+ Scoreboard
+ 
+51162  CLYDE PITTMAN
+9 Towel
+ Locker
+ Scoreboard
+ Cooler
+ Goggles 
+ Badminton
+ Racquetball
+ Tent
+ Volleyball
+ 
+55094  WILFRED WHEELER
+0 
+95017  SUE LEONARD
+5 Volleyball
+ Towel
+ Locker
+ Cooler
+ Goggles
+ 
+15359  MARVIN PHILLIPS
+0
